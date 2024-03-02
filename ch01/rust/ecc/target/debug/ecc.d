@@ -1,0 +1,1 @@
+/Users/yoshinarikusano/Developments/Bitcoin/Programming_Bitcoin_ja_Golang/ch01/rust/ecc/target/debug/ecc: /Users/yoshinarikusano/Developments/Bitcoin/Programming_Bitcoin_ja_Golang/ch01/rust/ecc/src/main.rs
